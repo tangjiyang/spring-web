@@ -1,4 +1,4 @@
-package com.tang.test.web;
+package com.tang.test.web.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
